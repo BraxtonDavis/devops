@@ -13,7 +13,7 @@ describe('First two terms', function() {
     });
 }); 
 
-describe('Negative fibonnacci value' function() {
+describe('Negative fibonnacci value', function() {
   it('should return undefined for a negative number', function() {
     assert.strictEqual(main.fibonacci(undefined));
   })
